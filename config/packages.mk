@@ -1,11 +1,10 @@
 # Packages
 PRODUCT_PACKAGES += \
     DU-Themes \
-    LiveWallpapers \
     LiveWallpapersPicker \
     CustomDoze \
     OmniStyle \
-    messaging \
+    Dialer \
     WallpaperPicker2
 
 # Allows registering device to Google easier for gapps
