@@ -3,6 +3,7 @@ PRODUCT_PACKAGES += \
     DU-Themes \
     LiveWallpapersPicker \
     CustomDoze \
+    Recorder \
     OmniStyle \
     Dialer \
     WallpaperPicker2
